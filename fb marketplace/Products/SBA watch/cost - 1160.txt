@@ -1,0 +1,3 @@
+Landing price : 810
+Shipping : 150
+Margin : 200
