@@ -1,0 +1,3 @@
+buying - 205
+shipping - 100
+margin - 50
