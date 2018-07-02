@@ -1,0 +1,3 @@
+Buying cost - 105
+Margin - 50
+Shipping - 50
